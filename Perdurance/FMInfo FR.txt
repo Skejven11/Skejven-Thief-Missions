@@ -1,0 +1,60 @@
+=============================================================
+Titre           : Le Perdurance
+Nom du fichier  : 1MIL_ThePerdurance.zip
+Auteur          : Skejven
+Contact         : Skejven#9312 sur Discord
+Date de sortie  : 1 janvier 2021
+Version         : 1.0
+============================================================
+* Remarques *
+
+Merci d'utiliser la dernière version de NewDark (1.27).
+Merci d'activer la brume, c’est une part très importante de la mission.
+Utilisez FMSel, AngelLoader ou NewDarkLoader, n’utilisez pas DarkLoader.
+=============================================================
+* Vidéo d’introduction *
+
+Le Perdurance, un navire géant fabriqué par les Mécanistes juste avant l’effondrement de l’Ordre, devait se rendre à Lubeln situé dans le Petit Hrabota et revenir à la Cité pour son premier voyage. Qui savait que d’autres villes avaient aussi leurs propres ruines antiques souterraines ? Je m'attendais à ce que les Mécanistes soient là pour ça.
+
+Après son départ de retour vers la Cité, le navire n’a pas été revu depuis près d’un mois, mais il a été aperçu il y a quelques jours près d’une rive proche de sa destination finale. Ce navire à vapeur, décrit par mon informateur comme une "bête rugissante de métal, souillant le ciel avec des rafales de vapeurs", est censé transporter un artefact appelé le "Masque de Nerlatop". Une telle babiole doit avoir une immense valeur, espérons qu’il n’amènera pas un autre "Age de Métal" mais plutôt une petite fortune pour ma bourse.
+Je ne m’attends pas à ce qu’un membre de l’équipage soit encore sur le vaisseau, mais je peux apercevoir quelques lumières clignotantes à bord...
+=============================================================
+* Information sur le jeu *
+
+Jeu                     : Thief 2 L’âge de métal
+Nom de la mission       : Le Perdurance
+Nom du fichier          : miss17.mis
+Choix difficulté        : Normal/Difficile/Expert
+Achat équipement        : Non
+Carte/Carte auto        : Non
+Nouveaux graphismes     : Oui
+Nouveaux sons           : Oui
+Nouvelles conversations : Non
+Nouveaux modèles        : Oui
+Support de l’EAX        : Non
+Support Multi Langues   : Oui, anglais et français
+Vidéo d’introduction    : Non
+Sous-titres             : Non
+
+=============================================================
+* Construction *
+
+Base         : A partir de zéro 
+Taille Carte : petite
+Durée        : 3 mois, mais presque rien fait en novembre
+
+=============================================================
+* Remerciements / Béta testeurs *
+
+FireMage et son équipe 'Builder's Paradise' (DirkBogan, Marbleman, DrK) pour de nombreuses ressources mécanistes et une grande inspiration pour de nombreux designs
+Jayrude, DrK, DirkBogan, Skacky et FireMage pour leur excellent béta-test
+Mon petit ami pour certaines idées :^)
+Apiai pour de l'original français
+=============================================================
+* Remerciements Objets Personnalisés *
+
+Textures : DrK (famille "Ruined2Metal"), FireMage (famille "BuParadise/gif")
+Objets : FireMage, Lord Alan, Team T2X, Nicked, Sluggs, Dromed Deluxe, Team Calendra, Nameless Voice (Objets pris sur spirited-tech.com/thief/ et FM de la Builder's Paradise)
+Ambiances : Akuma Kira, Nolan Reese (ambiances du jeu Lost in Vivo [https://akuma-kira.itch.io/lost-in-vivo], utilisées avec la permission de Kira et Nolan)
+Radio statique de Silent Hill 3
+=============================================================

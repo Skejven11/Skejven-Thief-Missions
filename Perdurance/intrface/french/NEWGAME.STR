@@ -1,0 +1,9 @@
+difficulty: "Niveau de difficult‚ :"
+start_training: "Suivre initiation"
+skip_training: "Le Perdurance"
+options: "Options"
+cancel: "Annuler" 
+
+diff_0:  "Normal"
+diff_1:  "Difficile"
+diff_2:  "Expert"

@@ -1,0 +1,9 @@
+difficulty: "Difficulty:"
+start_training: "Read txt file :)"
+skip_training: "Morning Light"
+options: "Options"
+cancel: "Cancel" 
+
+diff_0:  "Normal"
+diff_1:  "Hard"
+diff_2:  "Expert"

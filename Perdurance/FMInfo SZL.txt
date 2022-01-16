@@ -1,0 +1,68 @@
+=============================================================
+Tytuł		: The Perdurance
+Miano pliku	: 1MIL_ThePerdurance.zip
+Autōr	      	: Skejven
+Kōntakt  	: Skejven#9312 na Discord
+Datōm wydaniŏ	: Piyrszy stycznia 2021
+Wersyjŏ	      	: 1.0
+============================================================
+* Zapiski *
+Coby włōnczyć gŏdka ślōnski edytuj plik darkinst.cfg: language silesian+english
+Proszã grej na nojnowszyj wersyje NewDark'a (1.27).
+PROSZÃ miyj mgłã włōnczōnõ, to barzo wŏżnŏ tajla misyje.
+Użyj modernego FM loader, na przikłŏd FMSel, AngelLoader abo NewDarkLoader, niy używej DarkLoader.
+
+=============================================================
+* Ôdprŏwa *
+
+Perdurance, wielgi szif zbudowany bez Mechanistŏw zarŏz przed padniyńciym zakōnu, mioł wyruszyć z Lubeln w Myńszyj 
+Hrabocie i nawrōt do Miasta na swojimu piyrszymu wandrowi. Fto wiedzioł iże inksze miasta tyż majōm swoje podziymne, 
+antyczne niwery? A aby tak ino sōndzã, iże po to byli tam Mechanisty.
+
+Zarŏz po wyruszyniu na nawrōt do Miasta, szif straciōł sie na bezma miesiōnc, jednak pŏrã dni tymu grupa rybŏkōw zobŏczyła 
+go na wybrzyżu blisko jego ôstatnigo cweka. Tyn szif parowy, ôpisany bez mojigo spōłprŏcownika za "ryczōncŏ, metalowŏ 
+berdyjŏ, maraszōncŏ niebo chmōrami smōndu", winiyn przewozić cynny przedmiot ô mianie "Larwa Nerlatopa". Taki bibelot 
+musi być wach dużo pijyndzy, mam nadziejã, iże niy prziniesie dalszõ "Erã Metalu" ale radszyj małõ fortunã dlŏ mie.
+Niy ôczekujã, iże fto ino z ôbsady bydzie na szifie, ale nawet stōnd widzã małe mrugajōnce światła na bōrcie...
+
+=============================================================
+* Informacyje *
+
+Szpli				: Thief 2 The Metal Age
+Miana poziōmōw			: The Perdurance
+Miano plikōw			: miss17.mis
+Ôpcyje ciynżkości	   	: Normalny/Ciynżki/Macher 
+Sklep			     	: Niy 
+Karta/autokarta			: Niy 
+Nowŏ grafika		       	: Ja
+Nowe klangi			: Ja
+Nowe kōnwersacyje		: Niy 
+Nowe modele		        : Ja
+Podpora EAX		        : Niy 
+Podpora gŏdkowe			: Ja (Angielski, Francuski, Ślōnski)
+Odprawa				: Niy 
+Napisy		             	: Niy 
+
+=============================================================
+* Gysztel *
+
+Baza		: Ôd nula 
+Srogość karty  	: Małŏ
+Czas gysztelu	: 3 miesiōnce, ale bezma nic w listopadzie
+
+=============================================================
+* Dziynkujã / Beta Testerzy *
+
+FireMage i jego kapela Builder's Paradise team (DirkBogan, Marbleman, DrK) za mocka szumnych mechanistych bogajstw 
+jak tyż wielgõ inspiracyje dlŏ mocka designŏw.
+Jayrude, DrK, DirkBogan, Skacky i FireMage za szumne beta testowanie
+Mōj karlus za niykere idyje :^)
+Apiai za francuski przekłŏd
+=============================================================
+* Nowe zasoby *
+
+Tekstury: DrK ("Ruined2Metal" familije) FireMage ("BuParadise/gif" familije)
+Ôbiekty: FireMage, Lord Alan, Team T2X, Nicked, Sluggs, Dromed Deluxe, Team Calendra, Nameless Voice (ôbiekty wziynte z spirited-tech.com/thief/ i Builder's Paradise FM)
+Ambienty: Akuma Kira, Nolan Reese (ambienty zrobiōnŏ dlŏ szpilu Lost in Vivo [https://akuma-kira.itch.io/lost-in-vivo], użyte ze sztamōm Kira'y i Nolan'a)
+Fiōnczynie radyja porwane z Silent Hill 3
+=============================================================

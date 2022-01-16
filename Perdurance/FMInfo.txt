@@ -1,0 +1,64 @@
+=============================================================
+Title		: The Perdurance
+Filename	: 1MIL_ThePerdurance.zip
+Author	      	: Skejven
+Contact info  	: Skejven#9312 on Discord
+Date of release	: 1st of January 2021
+Version	      	: 1.0
+============================================================
+* Notes *
+Please play on the newest version of NewDark (1.27).
+PLEASE keep the fog on (or if for whatever reason it's turned off, please do turn it on), it's very important part of the mission.
+Use modern FM loader, for example FMSel, AngelLoader or NewDarkLoader, don't use DarkLoader.
+
+=============================================================
+* Briefing *
+
+The Perdurance, a giant ship manufactured by the Mechanists right before the collapse of the order, was meant to travel to Lubeln in Lesser Hrabota and back 
+to The City on it's first voyage. Who knew that other cities also had their own underground ancient ruins? At least that's what I expect the Mechanists were there for. 
+
+After setting off on it's return journey back to The City the ship wasn't seen again for nearly a month, yet a few days ago it was sighted near a shore close to 
+it's final destination. This steamship, described by my informant as a "roaring beast of metal, staining the sky with gusts of fumes", is supposed to be carrying 
+an artifact called the "Mask of Nerlatop". Such a trinket must be of immense value, let's hope it won't bring about another "Metal Age" but rather a small fortune to me. 
+I don't expect anyone of the crew to still be there on the ship, yet I can see a small flickering of lights aboard...
+
+=============================================================
+* Play Information *
+
+Game				: Thief 2 The Metal Age
+Level Names			: The Perdurance
+File names			: miss17.mis
+Difficulty Settings	   	: Normal/Hard/Expert
+Equipment store		     	: No
+Map/Automap			: No
+New graphics		       	: Yes
+New sounds			: Yes
+New conversations		: No
+New models		        : Yes
+EAX Support		        : No
+Multi language support		: Yes (English and French)
+Briefing			: No
+Subtitles:              	: No
+
+=============================================================
+* Construction *
+
+Base		: From scratch 
+Map Size  	: Small
+Build Time	: 3 months, although nearly did nothing on november
+
+=============================================================
+* Thanks To / Beta Testers *
+
+FireMage and his Builder's Paradise team (DirkBogan, Marbleman, DrK) for a lot of great mechanist resources and big inspiration for a lot of the designs
+Jayrude, DrK, DirkBogan, Skacky and FireMage for great beta testing and feedback
+My boyfriend for some of the ideas :^)
+Apiai for the french translation
+=============================================================
+* Custom Resources Credits *
+
+Textures: DrK ("Ruined2Metal" family), FireMage ("BuParadise/gif" familes)
+Objects: FireMage, Lord Alan, Team T2X, Nicked, Sluggs, Dromed Deluxe, Team Calendra, Nameless Voice (objects taken from spirited-tech.com/thief/ and Builder's Paradise FM)
+Ambients: Akuma Kira, Nolan Reese (ambients made for Lost in Vivo game [https://akuma-kira.itch.io/lost-in-vivo], used with Kira's and Nolan's permission)
+radio static yoinked from Silent Hill 3
+=============================================================

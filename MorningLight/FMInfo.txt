@@ -1,0 +1,57 @@
+=============================================================
+08/13/2021
+=============================================================
+Title		: Morning Light
+Filename	: Morninglight.zip
+Author	      	: Skejven
+Contact info  	: Skejven#9312 on Discord
+Date of release	: 16th of August 2021
+Version	      	: 1.0
+=============================================================
+* Notes *
+This is a THIEF GOLD mission, don't try to play it in Thief 2.
+Please play on the newest version of NewDark (1.27).
+Please set sky detail to high.
+Use modern FM loader, for example FMSel, AngelLoader or NewDarkLoader, don't use DarkLoader.
+
+=============================================================
+Briefing:
+
+After embarking on my way back from that cursed ship, Perdurance, in the distance I noticed a bright blue light. It felt so unnatural, not human, drawing me towards it. 
+Warm light waking me up, I found myself ashore this small little island...
+
+=============================================================
+* Play Information *
+
+Game				: Thief Gold
+Level Names			: Morning Light
+File names			: miss17.mis
+Difficulty Settings	   	: Normal/Hard/Expert
+Equipment store		     	: No
+Map/Automap			: No
+New graphics		       	: Yes
+New sounds			: Yes
+New conversations		: No
+New models		        : Yes
+EAX Support		        : No
+Multi language support		: No
+Briefing			: No
+Subtitles:              	: No
+
+=============================================================
+* Construction *
+
+Base		: From scratch 
+Map Size  	: Small
+Build Time	: 2 weeks
+
+=============================================================
+* Custom Resources credits *
+Textures: DrK ("Ruined*" families)
+Lighthouse lens mechanism sound stolen from Robert Eggers's 2019 Lighthouse, don't kill me A24 
+=============================================================
+* Thanks To / Beta Testers *
+Big thank you to beta testers:
+Schlock, DirkBogan, Jayrude and The Black Cat
+Thanks to Brethren for organising the competition as well!
+=============================================================
